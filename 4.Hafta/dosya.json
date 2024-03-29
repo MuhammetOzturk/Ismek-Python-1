@@ -1,0 +1,20 @@
+
+{
+    "players": [
+        {
+            "playerName": "Player1",
+            "playerScore": 100,
+            "isPlayerAlive": true
+        },
+        {
+            "playerName": "Player2",
+            "playerScore": 150,
+            "isPlayerAlive": false
+        },
+        {
+            "playerName": "Player3",
+            "playerScore": 75,
+            "isPlayerAlive": true
+        }
+    ]
+}
