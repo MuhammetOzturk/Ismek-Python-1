@@ -1,0 +1,15 @@
+
+[
+  {
+    "name": "John Doe",
+    "student_id": "12345",
+    "class": "10A",
+    "grades": {"math": 85, "science": 90, "history": 78}
+  },
+  {
+    "name": "Jane Smith",
+    "student_id": "54321",
+    "class": "11B",
+    "grades": {"math": 92, "science": 88, "history": 95}
+  }
+]
